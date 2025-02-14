@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -354,7 +353,7 @@
     getNextWord();
   </script>
 </body>
-</html><!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
