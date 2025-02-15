@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Interactive English-Dutch Word Quiz</title>
+  <title>Interactive English-Dutch WRTS</title>
   <style>
     /* General Styles */
     html, body {
